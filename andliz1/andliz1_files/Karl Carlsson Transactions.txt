@@ -1,7 +1,0 @@
-Here are all of the transactions from account number 1003: 
-2022-12-13 17:24:01 4 000,00 kr Saldo: 4 000,00 kr
-2022-12-13 17:24:23 ?300,00 kr Saldo: 3 700,00 kr
-2022-12-13 17:24:30 ?612,00 kr Saldo: 3 088,00 kr
-2022-12-13 17:24:36 ?2 550,00 kr Saldo: 538,00 kr
-2022-12-13 17:24:42 6 700,00 kr Saldo: 7 238,00 kr
-2022-12-13 17:26:20 ?612,00 kr Saldo: 6 626,00 kr
